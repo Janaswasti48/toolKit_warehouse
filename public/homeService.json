@@ -1,0 +1,67 @@
+[
+    {
+        "_id": 1,
+        "name": "Lithium Electric ForkLift",
+        "description" : "Need a solution for a few months before you get a new walkie stacker or stand up reach truck? Choose from daily, weekly, monthly, or long term rental or lease at TOTAL WAREHOUSE on every type of warehouse equipment.",
+        "price":"$782/mo",
+        "img":"https://i.ibb.co/gM3fkjk/product-1.jpg",
+        "quanntity":" 100-150",
+        "supplierName": "Clay Justin"
+
+    },
+    {
+        "_id": 2,
+        "name": "Low Profile Lift",
+        "description" : "Need a solution for a few months before you get a new walkie stacker or stand up reach truck? Choose from daily, weekly, monthly, or long term rental or lease at TOTAL WAREHOUSE on every type of warehouse equipment.",
+        "price":"$7800/mo",
+        "img":"https://i.ibb.co/DWdRRgV/product-2.jpg",
+        "quanntity":" 100-150",
+        "supplierName": "David Baklar"
+
+    },
+    {
+        "_id": 3,
+        "name": "4500 Series Rider Swepper",
+        "description" : "Need a solution for a few months before you get a new walkie stacker or stand up reach truck? Choose from daily, weekly, monthly, or long term rental or lease at TOTAL WAREHOUSE on every type of warehouse equipment.",
+        "price":"$1782/mo",
+        "img":"https://i.ibb.co/6HMN0zt/product-3.jpg",
+        "quanntity":" 100-150",
+        "supplierName": "Walter White"
+
+    },
+    {
+        "_id": 4,
+        "name": "Portable Warehouse Ramps",
+        "description" : "Need a solution for a few months before you get a new walkie stacker or stand up reach truck? Choose from daily, weekly, monthly, or long term rental or lease at TOTAL WAREHOUSE on every type of warehouse equipment.",
+        "price":"$2182/mo",
+        "img":"https://i.ibb.co/qDs1ntB/product-4.jpg",
+        "quanntity":" 100-150",
+        "supplierName": "Justin Crude"
+
+    },
+    {
+        "_id": 5,
+        "name": "Racking Special Equipment",
+        "description" : "Need a solution for a few months before you get a new walkie stacker or stand up reach truck? Choose from daily, weekly, monthly, or long term rental or lease at TOTAL WAREHOUSE on every type of warehouse equipment.",
+        "price":"$3482/mo",
+        "img":"https://i.ibb.co/KF3gQ6x/product-5.jpg ",
+        "quanntity":" 100-150",
+        "supplierName": "Yung Kua Lie"
+
+    },
+    {
+        "_id": 6,
+        "name": "Racking Equipment",
+        "description" : "Need a solution for a few months before you get a new walkie stacker or stand up reach truck? Choose from daily, weekly, monthly, or long term rental or lease at TOTAL WAREHOUSE on every type of warehouse equipment.",
+        "price":"$1102/mo",
+        "img":"https://i.ibb.co/r6G0mcN/product-6.jpg",
+        "quanntity":" 100-150",
+        "supplierName": "Martin Gabrial"
+
+    }
+]
+
+
+
+
+

@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+} */
+/* h1,h2,h3,h4,h5,h6,p,a button{
+  font-family: 'Teko', sans-serif;
+} */
+
+
+.header{
+  font-family: 'Teko', sans-serif;
 }
